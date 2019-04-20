@@ -1,4 +1,4 @@
-# NHBooks for Android (Suspension of maintenance)
+# NHBooks for Android ![Build Status](https://app.bitrise.io/app/6068996af644492e/status.svg?token=esHu18Vg6by7qP2WZ9yWvQ)
 <img src="./art/nhbooks.png" width="20%"/>
 
 A Material Design (3rd-party) NHentai client for Android.
