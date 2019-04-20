@@ -7,7 +7,7 @@ android {
 
 	defaultConfig {
 		applicationId "moe.feng.nhentai"
-		minSdkVersion 21
+		minSdkVersion 15
 		targetSdkVersion 27
 		versionCode 36
 		versionName "1.8.4"
