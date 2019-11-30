@@ -5,9 +5,9 @@ import moe.feng.nhentai.model.Tag
 
 object ApiConstants {
 
-	const val NHENTAI_HOME = "https://id.nhent꧉ai"
-	const val NHENTAI_I = "https://i.bakaa.me"
-	const val NHENTAI_T = "https://kontol.nhent.ai"
+	const val NHENTAI_HOME = "https://id.nhent.ai"
+	const val NHENTAI_I = "https://cdn.nhent.ai"
+	const val NHENTAI_T = "https://t.nhent.ai"
 
 	const val NHBOOKS_UA = "NHBooks ${BuildConfig.VERSION_NAME}/Android " +
 			"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.0.0 Mobile"
